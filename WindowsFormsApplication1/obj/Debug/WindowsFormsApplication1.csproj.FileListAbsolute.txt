@@ -1,0 +1,204 @@
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\c# car Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Header.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBankPolicy.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBranch.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCar.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCustomer.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddDealer.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddEmployee.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddUser.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditProfile.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeStatement.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBankPolicy.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBranch.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCars.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCustomers.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageDealers.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageEmployees.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageUsers.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PassWord.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TabularSummary.resources
+F:\c# car Project\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBankPolicy.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBranch.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCar.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCustomer.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddDealer.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddEmployee.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddUser.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditProfile.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Header.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeStatement.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBankPolicy.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBranch.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCars.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCustomers.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageDealers.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageEmployees.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageUsers.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PassWord.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TabularSummary.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edir_branch.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_bankpolicy.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_car.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_customer.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_dealer.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_employee.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_user.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_customerinfo.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_dealerinfo.resources
+C:\Users\Admin\Desktop\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_employeeinfo.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBankPolicy.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBranch.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCar.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCustomer.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddDealer.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddEmployee.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddUser.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edir_branch.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditProfile.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_bankpolicy.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_car.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_customer.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_dealer.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_employee.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_user.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Header.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeStatement.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBankPolicy.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBranch.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCars.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCustomers.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageDealers.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageEmployees.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageUsers.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PassWord.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TabularSummary.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_customerinfo.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_dealerinfo.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_employeeinfo.resources
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\DB_CarShow.sdf
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\Database2.sdf
+C:\Users\HP\Downloads\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBankPolicy.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBranch.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCar.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCustomer.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddDealer.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddEmployee.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddUser.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edir_branch.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditProfile.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_bankpolicy.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_car.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_customer.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_dealer.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_employee.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_user.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Header.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeStatement.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBankPolicy.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBranch.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCars.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCustomers.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageDealers.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageEmployees.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageUsers.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PassWord.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TabularSummary.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_customerinfo.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_dealerinfo.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_employeeinfo.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\CarShowDB.mdf
+I:\varsity\C#\aaj+kerC#\Car-Showroom Management System15\Car-Showroom Management System3\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\CarShowDB_log.ldf
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\CarShowDB.mdf
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\CarShowDB_log.ldf
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBankPolicy.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBranch.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCar.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCustomer.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddDealer.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddEmployee.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashBoard.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edir_branch.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditProfile.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_bankpolicy.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_car.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_customer.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_dealer.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Edit_employee.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Header.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeStatement.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBankPolicy.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageBranch.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCars.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageCustomers.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageDealers.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManageEmployees.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PassWord.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TabularSummary.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_customerinfo.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_dealerinfo.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View_employeeinfo.resources
+I:\varsity\C#\Car-Showroom Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
